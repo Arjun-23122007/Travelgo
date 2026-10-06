@@ -17,4 +17,4 @@ Travelgo is a Python Flask-based web application designed to simplify travel boo
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Arjun-23122007/Travelgo.git](https://github.com/Arjun-23122007/Travelgo.git)
+   git clone [https://github.com/Arjun-23122007/Travelgo.git]
